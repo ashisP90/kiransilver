@@ -1,0 +1,8 @@
+# Editor Files
+/nbproject/*
+
+# Admin Files
+/admin/config/database.php
+
+/admin/uploads/*
+.sass-cache

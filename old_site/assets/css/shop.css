@@ -1,0 +1,105 @@
+.main_menu nav > ul > li > ul.mega_menu li ul li a:hover {
+    color: #d8281b !important;
+}
+.ui-slider-horizontal .ui-slider-range {
+    background: #ff0000;
+    height: 5px;
+}
+.widget_list.widget_filter form button:hover {
+    background: #ff0000;
+}
+.widget_list > ul > li > a:hover {
+    color: #ff0000;
+}
+.widget_list > ul > li > a:hover span {
+    background: #ff0000;
+    color: #fff;
+}
+.tag_widget ul li a:hover {
+    background: #ff0000;
+    color: #fff;
+    border-color: #ff0000;
+}
+.pagination ul li.current {
+    background: #ff0000;
+    color: #ffffff;
+}
+.pagination ul li a:hover {
+    background: #ff0000;
+    color: #ffffff;
+}
+#needblock{
+    display: block;
+}
+#needmargintop{
+   margin-top: -25px;
+}
+
+
+/* popup register */
+
+#bigimage{
+    max-width: 100%;
+    height: 513px !important;
+}
+.login_submit a {
+    font-size: 13px;
+    color: #ffffff;
+    padding-bottom: -18px !important;
+    float: left;
+    line-height: 26px;
+}
+.account_form button {
+    background: #ff0000;
+    border: 0;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: 700;
+    height: 34px;
+    line-height: 21px;
+    padding: 5px 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.login_submit {
+    text-align: center;
+}
+.pagination ul li.current a {
+    background: #ff0000;
+    color: #ffffff !important;
+}
+#cart_text:hover {
+    color: #ff0000 !important;
+}
+
+.product_variant.quantity button:hover {
+    background: #ff0000;
+}
+.product_d_action ul li a:hover {
+    color: #ff0000;
+}
+.product_info_button ul li a:hover {
+    background: #ff0000;
+    color: #ffffff;
+}
+.product_info_button ul li a.active {
+    background: #ff0000;
+    color: #ffffff;
+}
+.breadcrumb_content ul li a:hover {
+    color: #ff0000;
+}
+.product_d_action {
+    margin-bottom: 10px;
+    padding: 5px;
+    margin-right: 50px;
+}
+#note1{
+    margin-bottom: 15px;
+    font-size: 14px;
+}

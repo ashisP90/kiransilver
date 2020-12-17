@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 Jun, 2020, 3:36:55 PM
+    Author     : DELL
+*/
+
+.table_desc.wishlist table tbody tr td.product_total a {
+    background: #ff1616 !important;
+    font-size: 12px;
+    font-weight: 700;
+    height: 38px;
+    line-height: 18px;
+    padding: 10px 20px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.table_desc .cart_page table tbody tr td.product-price {
+    min-width: 159px;
+    color: #ff1616;
+    font-size: 18px;
+    font-weight: 600;
+}

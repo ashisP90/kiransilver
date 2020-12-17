@@ -1,0 +1,19 @@
+.user-actions h3 {
+   
+    border-top: 3px solid #ff0000;
+    
+}
+.user-actions h3 a {
+    color: #ff0000;
+}
+.order_button button {
+    
+    background: #ff0000;
+    
+}
+.checkout_form label span {
+    color: #ff0000;
+}
+.breadcrumb_content ul li a {
+    color: #ff0000;
+}

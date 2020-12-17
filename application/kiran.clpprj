@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="D:\xampp\htdocs\kiransilver\codes\application\kiran.clpprj">
+	<settings><PM_URL><![CDATA[http://localhost/kiransilver_ci/application/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/kiransilver_ci/application/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";D:\xampp\htdocs\kiransilver\codes\application\modules\categories\views\edit.php;D:\xampp\htdocs\kiransilver\codes\application\modules\includes\views\front_end\routes.php;D:\xampp\htdocs\kiransilver\codes\application\modules\login\views\myaccount.php;D:\xampp\htdocs\kiransilver\codes\application\modules\users\views\ajax_agent_lists.php;D:\xampp\htdocs\kiransilver\codes\application\modules\users\views\index.html;"/><added value=""/><lastopfiles>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\controllers\Products.php"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\views\product_details.php"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\models\Products_model.php"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\views\products_list.php"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\wishlist\views\index.php"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\cart\views\index.php"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\cart\controllers\Cart.php"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\helpers\common_helper.php"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin-products\views\index.php"/>
+	</lastopfiles>
+	<todoblock>
+	</todoblock>
+	<filescache>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\html\index.html" crc="1552500582"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\html\error_php.php" crc="1552500582"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\html\error_general.php" crc="1552500583"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\html\error_exception.php" crc="1552500583"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\html\error_db.php" crc="1552500584"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\html\error_404.php" crc="1552500584"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\cli\index.html" crc="1552500578"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\cli\error_php.php" crc="1552500578"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\cli\error_general.php" crc="1552500579"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\cli\error_exception.php" crc="1552500579"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\cli\error_db.php" crc="1552500580"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\cli\error_404.php" crc="1552500580"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\errors\index.html" crc="1552500577"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\views\index.html" crc="1552500576"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\MX\Router.php" crc="1481631921"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\MX\Modules.php" crc="1601662602"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\MX\Loader.php" crc="1538432172"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\MX\Lang.php" crc="1538432172"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\MX\Controller.php" crc="1538432172"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\MX\Config.php" crc="1538432172"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\MX\Ci.php" crc="1538432172"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\MX\Base.php" crc="1538432172"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\third_party\index.html" crc="1552500395"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\wishlist\views\index.php" crc="1607107655"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\wishlist\models\Whislist_model.php" crc="1607020311"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\wishlist\controllers\Wishlist.php" crc="1607106733"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\users\views\user_edit.php" crc="1605424438"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\users\views\index.php" crc="1605425215"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\users\models\Users_model.php" crc="1605423468"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\users\controllers\Users.php" crc="1605425552"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\views\products_list.php" crc="1607097275"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\views\product_details_102.php" crc="1606845567"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\views\product_details.php" crc="1607601287"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\models\Products_model.php" crc="1607339821"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\products\controllers\Products.php" crc="1607357541"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\pages\views\contact.php" crc="1607186925"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\pages\views\about.php" crc="1607186815"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\pages\models\Pages_model.php" crc="1607181942"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\pages\controllers\Pages.php" crc="1607187360"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\orders\views\order_details.php" crc="1606845849"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\orders\views\index.php" crc="1606845849"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\orders\models\Orders_model.php" crc="1605980603"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\orders\controllers\Orders.php" crc="1605292329"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\my-account\views\order_details.php" crc="1605981514"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\my-account\views\index.php" crc="1605978271"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\my-account\models\MyAccount_model.php" crc="1605981500"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\my-account\controllers\MyAccount.php" crc="1605615604"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\login\views\register.php" crc="1606845891"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\login\views\login.php" crc="1606845892"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\login\models\Login_model.php" crc="1604932293"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\login\controllers\Login.php" crc="1607187581"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\includes\views\front_end\header.php" crc="1607186530"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\includes\views\front_end\footer.php" crc="1607187096"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\includes\views\back_end\leftpanel.php" crc="1605175275"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\includes\views\back_end\header.php" crc="1602404942"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\includes\views\back_end\footer.php" crc="1605179585"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\home\views\index.php" crc="1607109068"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\home\models\Home_model.php" crc="1602008316"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\home\controllers\Home.php" crc="1606586496"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\contact\views\index.php" crc="1607010991"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\contact\controllers\Contact.php" crc="1607010991"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\checkout\views\order_success.php" crc="1606845820"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\checkout\views\index.php" crc="1606845820"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\checkout\models\Checkout_model.php" crc="1605978032"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\checkout\controllers\Checkout.php" crc="1605685503"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\category-product\views\sub_cat_list.php" crc="1602691092"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\category-product\models\CategoryProducts_model.php" crc="1602873351"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\category-product\controllers\CategoryProducts.php" crc="1606578781"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\categories\views\sub_categories.php" crc="1602003018"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\categories\views\index.php" crc="1606587615"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\categories\models\Categories_model.php" crc="1602325411"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\categories\controllers\Categories.php" crc="1606846653"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\cart\views\index.php" crc="1607357662"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\cart\models\Cart_model.php" crc="1603393461"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\cart\controllers\Cart.php" crc="1605723978"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin-products\views\product_edit.php" crc="1604213227"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin-products\views\product_details_edit.php" crc="1607264875"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin-products\views\product_details.php" crc="1606890373"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin-products\views\index.php" crc="1606580745"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin-products\models\Products_model.php" crc="1605886009"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin-products\controllers\Products.php" crc="1606459510"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin\views\myprofile.php" crc="1601839460"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin\views\login.php" crc="1552500257"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin\views\index.php" crc="1601664761"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin\models\Admin_model.php" crc="1583259589"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin\controllers\Ajax.php" crc="1606589092"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\admin\controllers\Admin.php" crc="1606589111"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\about\views\index.php" crc="1607010991"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\modules\about\controllers\About.php" crc="1607010991"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\models\index.html" crc="1552500238"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\models\Blank_model.php" crc="1552500251"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\logs\index.html" crc="1552500236"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\libraries\Paypal_lib.php" crc="1552500233"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\libraries\MY_Form_validation.php" crc="1552500234"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\libraries\MY_Exceptions.php" crc="1552500234"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\libraries\index.html" crc="1552500233"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\libraries\Email.php" crc="1552500236"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\language\english\index.html" crc="1552500232"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\language\index.html" crc="1552500231"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\hooks\index.html" crc="1552500229"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\helpers\validation_helper.php" crc="1603220452"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\helpers\index.html" crc="1552500227"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\helpers\common_helper.php" crc="1607108178"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\core\MY_Router.php" crc="1552500223"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\core\MY_Model.php" crc="1605514828"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\core\MY_Loader.php" crc="1552500225"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\core\MY_Controller.php" crc="1604687541"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\core\index.html" crc="1552500222"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\controllers\index.html" crc="1552500223"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\user_agents.php" crc="1552500208"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\smileys.php" crc="1552500208"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\routes.php" crc="1607186834"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\profiler.php" crc="1552500210"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\mimes.php" crc="1552500211"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\migration.php" crc="1552500212"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\memcached.php" crc="1552500213"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\index.html" crc="1552500213"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\hooks.php" crc="1552500214"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\foreign_chars.php" crc="1552500214"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\doctypes.php" crc="1552500215"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\database.sample.php" crc="1601218660"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\database.php" crc="1606929072"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\constants.php" crc="1607183708"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\config.sample.php" crc="1603362327"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\config.php" crc="1606286773"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\config\autoload.php" crc="1604209605"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\cache\.htaccess" crc="1552500207"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\index.html" crc="1552500056"/>
+		<file name="D:\xampp\htdocs\kiransilver\codes\application\.htaccess" crc="1552500060"/>
+	</filescache>
+</project>

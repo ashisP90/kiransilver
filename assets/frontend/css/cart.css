@@ -1,0 +1,36 @@
+.table_desc .cart_page table tbody tr td.product-price {
+    min-width: 159px;
+    color: #ff0000;
+    font-size: 18px;
+    font-weight: 600;
+}
+.cart_submit button:hover {
+    background:#ff0000 ;
+}
+.coupon_inner a {
+    display: block;
+    text-align: right;
+    color: #ff0000;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+.checkout_btn a {
+    background: #ff0000;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 3px 14px;
+    line-height: 30px;
+    font-weight: 600;
+    display: inline-block;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+.breadcrumb_content ul li a:hover {
+    color: #ff0000;
+}
+.table_desc .cart_page table tbody tr td.product_name a:hover {
+    color: #ff0000;
+}

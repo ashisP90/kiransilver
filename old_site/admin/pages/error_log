@@ -1,0 +1,19 @@
+[20-Aug-2020 14:25:39 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[20-Aug-2020 14:25:39 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5
+[20-Aug-2020 14:25:51 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[20-Aug-2020 14:25:51 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5
+[20-Aug-2020 14:26:34 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[20-Aug-2020 14:26:34 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5
+[20-Aug-2020 14:26:44 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[20-Aug-2020 14:26:44 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5
+[20-Aug-2020 14:30:26 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[20-Aug-2020 14:30:26 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5
+[20-Aug-2020 14:31:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[20-Aug-2020 14:31:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5
+[20-Aug-2020 14:38:12 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[20-Aug-2020 14:38:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5
+[20-Aug-2020 14:40:32 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[20-Aug-2020 14:40:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5
+[20-Aug-2020 14:45:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/login_check.php on line 12
+[23-Aug-2020 17:04:49 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 3
+[23-Aug-2020 17:04:49 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/y4b2w58hptrb/public_html/kiran-dashboard/kiran-admin/v1.0/pages/db.php on line 5

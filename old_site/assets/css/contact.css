@@ -1,0 +1,17 @@
+body
+{
+    overflow-x: hidden;
+}
+.contact_message button {
+    font-weight: 700;
+    height: 42px;
+    line-height: 42px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    border: none;
+    background: #ff0000 !important;
+    color: #ffffff;
+    cursor: pointer;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}

@@ -1,4 +1,5 @@
 <?php
+
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
@@ -58,7 +59,7 @@ $autoload['packages'] = array();
 |
 |	$autoload['libraries'] = array('user_agent' => 'ua');
 */
-$autoload['libraries'] = array('session', 'database', 'form_validation', 'cart');
+$autoload['libraries'] = array('session', 'database', 'form_validation');
 
 /*
 | -------------------------------------------------------------------
